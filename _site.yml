@@ -14,7 +14,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
-      href: https://github.com/MadGenius0118
+      href: https://github.com/MadGenius0118/fangyi-p8105.github.io
 output:
   html_document:
     theme: cerulean
