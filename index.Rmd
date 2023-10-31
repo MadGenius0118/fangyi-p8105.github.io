@@ -20,3 +20,7 @@ This is a [link](https://www.google.com/) to a good data science tool. A link to
 ![](images/ted.jpg)
 
 ![](images/backstage.jpg)
+
+# Other stuff on this page
+
+Definitely there is [plotly](plotly.html) stuff!
